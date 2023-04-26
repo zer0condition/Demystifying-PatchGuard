@@ -1,4 +1,4 @@
-https://zerocondition.com/posts/demystifying-patchguard/
+https://zerocondition.com/posts/demystifying-patchguard
 
 ---
 
